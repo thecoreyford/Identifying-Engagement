@@ -1,8 +1,8 @@
 # Identifying Engagement in Children's Interaction whilst Composing Digital Music at Home 
 
-This repository contains the appendix material for the paper "Identifying Engagement in Children's Interaction whilst Composing Digital Music at Home", presented at C&C 2022. 
+This repository contains the appendix material for the paper "Identifying Engagement in Children's Interaction whilst Composing Digital Music at Home", presented at C&C 2022. If you find any aspects of this repository useful, please consider citing our work:
 
-If you find any aspects of this repository useful, please consider citing our work. TODO: Add link and citation on publication acceptance. 
+* Corey Ford and Nick Bryan-Kinns. 2022. Identifying Engagement in Children’s Interaction whilst Composing Digital Music at Home. In Creativity and Cognition (C&C '22). Association for Computing Machinery, New York, NY, USA, 443–456. [https://doi.org/10.1145/3527927.3532794](https://doi.org/10.1145/3527927.3532794)
 
 **The repository contains the following:**
 
